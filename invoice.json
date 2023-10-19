@@ -1,0 +1,38 @@
+{
+    "Invoice": {
+      "BrojRacuna": "Jani",
+      "DatumIzdavanja": "Reminder",
+      "Vrijeme": "Don't forget me this weekend!",
+      "Napomena": "Don't forget me this weekend!",
+      "Rok": "Don't forget me this weekend!",
+      "Kod": "Don't forget me this weekend!",
+      "BrojStavki": "Don't forget me this weekend!",
+      "PeriodNaplate": {
+        "PocetniDatum": "aaa",
+        "ZavrsniDatum": "bbb"
+      },
+      "Izdavatelj": {
+        "OIB": "AAA",
+        "NazivTvrtke": "AAA",
+        "Racunovoda": "AAA",
+        "Adresa": "AAA"
+      },
+      "Kupac": "Don't forget me this weekend!",
+      "PodaciZaPlacanje": {
+        "PozivNaBroj": "aaaaa",
+        "ModelPlacanja": "aaaaa",
+        "OpisPlacanja": "aaaaa",
+        "IBAN": "aaaaa",
+        "IznosZaUplatu": "aaaa"
+      },
+      "Stavka": {
+        "Sifra": "",
+        "Naziv": "",
+        "Kolicina": "",
+        "JedinicnaCijena": "",
+        "UkupnaCijena": "",
+        "PoreznaStopa": "",
+        "CijenaSPorezom": ""
+      }
+    }
+  }

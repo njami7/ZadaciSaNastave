@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+        <BrojRacuna>Jani</BrojRacuna>
+        <DatumIzdavanja>Reminder</DatumIzdavanja>
+        <Vrijeme>Don't forget me this weekend!</Vrijeme>
+        <Napomena>Don't forget me this weekend!</Napomena>
+        <Rok>Don't forget me this weekend!</Rok>
+        <Kod>Don't forget me this weekend!</Kod>
+        <BrojStavki>Don't forget me this weekend!</BrojStavki>
+        <PeriodNaplate>
+                    <PocetniDatum>aaa</PocetniDatum>
+                    <ZavrsniDatum>bbb</ZavrsniDatum>
+        </PeriodNaplate>
+        <Izdavatelj>
+                     <OIB>AAA</OIB>
+                     <NazivTvrtke>AAA</NazivTvrtke>
+                     <Racunovoda>AAA</Racunovoda>
+                     <Adresa>AAA</Adresa>
+        </Izdavatelj>
+        <Kupac>Don't forget me this weekend!</Kupac>
+        <PodaciZaPlacanje>
+                    <PozivNaBroj>aaaaa</PozivNaBroj>
+                    <ModelPlacanja>aaaaa</ModelPlacanja>
+                    <OpisPlacanja>aaaaa</OpisPlacanja>
+                    <IBAN>aaaaa</IBAN>
+                    <IznosZaUplatu>aaaa</IznosZaUplatu>
+        </PodaciZaPlacanje>
+        <Stavka>
+                    <Sifra></Sifra>
+                    <Naziv></Naziv>
+                    <Kolicina></Kolicina>
+                    <JedinicnaCijena></JedinicnaCijena>
+                    <UkupnaCijena></UkupnaCijena>
+                    <PoreznaStopa></PoreznaStopa>
+                    <CijenaSPorezom></CijenaSPorezom>
+        </Stavka>
+</Invoice>
